@@ -1,4 +1,4 @@
-# network-security
+# Network-Security
 
 ## Ciphers
 1) Affine Cipher
