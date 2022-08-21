@@ -14,7 +14,7 @@ It is a type of substitution cipher in which each letter in the plaintext is rep
 * D(x)=(x-n)mod\ 26       (Decryption Phase with shift n)
 
 ### 3) Playfair Cipher-
-The best-known multiple-letter encryption cipher is the Playfair, which treats digrams in the plaintext as single units and translates these units into ciphertext digrams. The Playfair algorithm is based on the use of a 5x5 matrix of letters constructed using a keyword. The rules for filling in this 5x5 matrix are: L to R, top to bottom, first with keyword after duplicate letters have been removed, and then with the remain letters, with I/J used as a single letter. This example comes from Dorothy Sayer's book "Have His Carcase", in which Lord Peter Wimsey solves it, and describes the use of a probably word attack. 
+The best-known multiple-letter encryption cipher is the Playfair, which treats digrams in the plaintext as single units and translates these units into ciphertext digrams. The Playfair algorithm is based on the use of a 5x5 matrix of letters constructed using a keyword. The rules for filling in this 5x5 matrix are: L to R, top to bottom, first with keyword after duplicate letters have been removed, and then with the remain letters, with I/J used as a single letter.
 
 ## Cryptography algorithms
 
